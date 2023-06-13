@@ -1,0 +1,53 @@
+.xyz{
+color: #ba1b1b;
+
+}
+
+.ayz{
+    color: #8d12af;
+}
+
+input{
+
+border-radius: 40px;
+border-width: 3px;
+background-color: rgb(220, 250, 214);
+border: none;
+box-shadow: rgb(174, 208, 168);
+padding: 10px;
+}
+
+form{
+
+text-align: center;
+padding: 40px;
+margin: 40px;
+}
+
+button{
+
+
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(176, 217, 145);
+    border-radius: 18px;
+    box-shadow: 2px 5px  rgb(197, 229, 172) ;
+    border: none;
+}
+div{
+ align-self: center;
+ border-radius: 10px;
+ background-color: rgb(216, 250, 221);
+margin: 100px;
+border-radius: 150px;
+
+box-shadow: 5px 9px   rgb(185, 222, 190);
+}
+textarea{
+
+text-align: center;
+background-color:  rgb(226, 245, 212);
+border-radius: 10px;
+
+
+}
